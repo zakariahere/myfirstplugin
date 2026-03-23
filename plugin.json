@@ -1,7 +1,7 @@
 {
   "name": "myfirstplugin",
   "description": "The hello world style plugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": {
     "name": "Zakaria BOUAZZA",
     "email": "jeegent@outlook.com"
